@@ -1,1 +1,2 @@
-# CPE026_MessageApp
+# MessageApp
+CPE 026 Messaging App
